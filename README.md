@@ -1,7 +1,6 @@
 # 3D Pink Calculator with History
 
 A single-file, animated 3D pink calculator (HTML/CSS/JS) with expression history.
-Ready for GitHub Pages.
 
 ## Deploy to GitHub Pages
 ```bash
