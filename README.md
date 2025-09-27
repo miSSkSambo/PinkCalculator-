@@ -12,7 +12,7 @@ git branch -M main
 git remote add origin https://github.com/YOUR_USER/pink-calculator-3d.git
 git push -u origin main
 ```
-Create PINKcalc.hs https://pinkcalculator.oneapp.dev/
+PinkCalculator https://pinkcalculator.oneapp.dev/
 
 A fun, stylish, 3D-looking calculator built with HTML, CSS, and JavaScript! Perfect for quick calculations while enjoying a cute pink aesthetic.
 
